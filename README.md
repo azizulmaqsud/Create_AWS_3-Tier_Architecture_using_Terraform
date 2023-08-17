@@ -1,4 +1,4 @@
-# Create_AWS_3-Tier_Architecture_using_Terraform
+# Create_AWS_3-tier_Architecture_using_Terraform
 
 module "autoscaling" {
 
